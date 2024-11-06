@@ -1,3 +1,0 @@
-transformers>=4.21.1
-torch>=1.10.0
-sentencepiece  # Pegasus와 일부 번역 모델의 토크나이저에서 필요
